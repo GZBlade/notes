@@ -51,5 +51,16 @@ To github.com:GZBlade/notes.git
 Branch master set up to track remote branch master from origin.
 ```
 
+**总结**
+
+从本次悲伤的例子中可以总结出：
+
+1.  在github创建远程仓库的时候，最好什么都不要加，面对搞得很麻烦。
+2. 遇见问题的时候，最好沿着错误的提示，对最相似最可能的解决方法进行控制式的尝试，在后来的npm安装webpack的时候遇见了类似的情况。
+
+#### 2017-9-14
+
+##### git远程仓库问题
+
 
 
